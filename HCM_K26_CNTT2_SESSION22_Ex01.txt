@@ -1,0 +1,25 @@
+SESSION22
+Bài 1 : Tìm kiếm tài liệu học tập chính thống bằng Google
+
+Tên lớp: HCM K26 CNTT2
+Môn học: Nhập môn công nghệ thông tin
+Họ và tên: LƯƠNG THANH THƯ
+
+1. Chuỗi truy vấn (Query) tối ưu
+Plaintext
+"Nhập môn Công nghệ Thông tin" filetype:pdf site:ptit.edu.vn -site:studocu.com -site:scribd.com
+
+Giải thích: Sử dụng filetype:pdf để chỉ lọc tệp tài liệu dạng PDF và site:ptit.edu.vn để giới hạn phạm vi tìm kiếm độc quyền trên máy chủ của Học viện Công nghệ Bưu chính Viễn thông.   
+
+2. Lợi ích của toán tử filetype: so với cách tìm thông thường
+Tiết kiệm thời gian (Direct Hit): Đi thẳng đến file tài liệu gốc thay vì phải duyệt qua các trang quảng cáo, bài viết trung gian.
+Đảm bảo an toàn: Tránh xa các trang web rác, lừa đảo, hoặc đính kèm mã độc hại.
+Chất lượng chuẩn xác: Tài liệu thu về đúng là chương trình đào tạo, phụ lục học phần hoặc slide chính thức do nhà trường phát hành.   
+
+3. Mô tả 3 kết quả đầu tiên thu được thực tế.
+Kết quả 1: Chương trình khung đào tạo ngành CNTT (file PDF từ ptit.edu.vn/giaovu/uploads/...).
+	https://ptit.edu.vn/giaovu/wp-content/uploads/2020/12/CHUONG-TRINH-KHUNG-DAO-TAO-KHOA-2019-NGANH-CNTT-1.pdf
+Kết quả 2: PHỤ LỤC ĐH9 - chứa thông tin chi tiết về các học phần trong ngành CNTT trong đó có nhắc đến "Nhập môn công nghệ phần mềm" hoặc các môn cơ sở (từ hcm.ptit.edu.vn).  
+	https://ptithcm.edu.vn/wp-content/uploads/2024/10/1.-Bieu-mau-17-Phu-luc-DH9.CNTT_-1.pdf
+Kết quả 3: 979qd_Chuong-trinh-dao-tao.pdf - Quyết định chương trình đào tạo chính thức từ trang Đào tạo PTIT (daotao.ptit.edu.vn).   
+	https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/979qd_Chuong-trinh-dao-tao.pdf
